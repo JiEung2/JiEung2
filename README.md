@@ -11,6 +11,7 @@
 
 ### Certificate
 - SQLD
+- 정보처리기사
 - Cloud Digital Leader
 - 컴퓨터활용능력1급
 
