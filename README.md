@@ -12,7 +12,7 @@
 ### 🛠️Tools
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 
-## 🙋🏻‍♂️Personal Info
-- 전남대학교 산업공학과 / 소프트웨어공학과 부전공
+## History
+- SSAFFY 11기
 - 전남대학교 산업공학과 최적화 연구실
-- SSAFFY 11기 수료생
+- 전남대학교 산업공학과 / 소프트웨어공학과 부전공
